@@ -11,7 +11,7 @@ Hi there! I'm Priscila G Sidoli 👩🏻‍💻
 
 <p align="center">
 	<a href="https://github.com/PriscilagsData">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Analyst+BI%20|%20Chemical+Engineer%20;Freelancer;SQL%20|%20Power+BI%20|%20Tableau%20|%20Excel%20;Always%20learning...&size=20&duration=3000&pause=1000&color=BFEDDFFF&center=true&width=400&height=35">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Analyst+BI%20|%20Engineer%20;SQL%20|%20Power+BI%20|%20Tableau%20|%20Excel%20;Always%20learning...&size=20&duration=3000&pause=1000&color=BFEDDFFF&center=true&width=400&height=35">
 	</a>
 </p>
 

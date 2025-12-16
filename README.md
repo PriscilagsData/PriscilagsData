@@ -1,11 +1,11 @@
 <h2 align="center">
-Hi there! I'm Priscila G Sidoli 👩🏻‍💻
+Hi there! I'm Priscila Gutierrez Sidoli 👩🏻‍💻
   <a href="https://github.com/PriscilagsData" target="_self">
 </h2>
     
 <p align="center">
 	<a href="https://github.com/PriscilagsData">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Portfolio&size=25&duration=4000&pause=8000&color=C5DCDC&center=true&width=400&height=35">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Data+Portfolio&size=25&duration=4000&pause=8000&color=C5DCDC&center=true&width=400&height=35">
 	</a>
 </p>
 
@@ -18,18 +18,17 @@ Hi there! I'm Priscila G Sidoli 👩🏻‍💻
 <hr>
 
 <pre>
-💻 This is where I share my projects as a <b>Data Analyst</b>
-🔎 Currently open for a new <b>job opportunity</b>
-  
-📚 I have a Bachelor in Chemical Engineer from the Universidad Nacional de Córdoba in Argentina
+Chemical Engineer specialized in <b>Data Analysis and Business Intelligence</b>, focused on building scalable, business-driven analytical solutions. I work primarily with <b>Power BI at an advanced level</b>, with strong emphasis on data modeling, Power Query and DAX optimization, as well as ETL pipelines and SQL.
+
+I have experience delivering projects within BI and PMO environments, managing end-to-end requirements, coordinating interdisciplinary teams, and acting as a liaison between clients, technical teams, and multiple workstreams. I have worked with complex datasets across healthcare, pharmaceutical supply chain, and biotech, ensuring data quality, traceability, and alignment with business goals.
+
+I am currently expanding my skill set in Power Apps and Power Automate for process automation and low-code solutions, and I also use Tableau for data visualization. I bring strong analytical skills that enable me to provide clarity to complex problems and generate actionable, data-driven insights.
   
 ⚡ Seeking to attract the attention of the right people who understand my ideas about the power and potential of the data world, where it can be put to work for social evolution and a fairer, smarter world
-✏️ Special passion for <b>design</b> applied to all my work
-🌱 Extra tools with which I have trained and specialized along the way: Arduino, Autodesk Fusion360, Canva, Python
   
-🔭 Part of an important <a href="https://www.conicet.gov.ar/el-conicet-y-establecimientos-gascon-s-a-trabajan-en-el-desarrollo-de-una-tecnologia-clave-para-el-sector-de-hidrocarburos/" target="_blank">USM development project</a>
+🔭 Was part of a national <a href="https://www.conicet.gov.ar/el-conicet-y-establecimientos-gascon-s-a-trabajan-en-el-desarrollo-de-una-tecnologia-clave-para-el-sector-de-hidrocarburos/" target="_blank">USM development project</a>
   
-🌟 Spanish (native), <b>English</b> (C1), Italian (B2)
+💬 LANGUAGES <b>Spanish (native), <b>English</b> (C1), Italian (B2)</b>
 📫 How to reach me: contact me by clicking on the next links
 </pre>
 <hr>

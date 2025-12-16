@@ -28,6 +28,7 @@ I am currently expanding my skill set in Power Apps and Power Automate for proce
 🔭 Was part of a national <a href="https://www.conicet.gov.ar/el-conicet-y-establecimientos-gascon-s-a-trabajan-en-el-desarrollo-de-una-tecnologia-clave-para-el-sector-de-hidrocarburos/" target="_blank">USM development project</a>
   
 💬 LANGUAGES <b>Spanish (native), <b>English</b> (C1), Italian (B2)</b>
+
 📫 How to reach me: contact me by clicking on the next links
 </pre>
 <hr>

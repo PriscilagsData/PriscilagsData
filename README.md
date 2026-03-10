@@ -21,11 +21,16 @@ Chemical Engineer specialized in <b>Data Analysis and Business Intelligence</b>,
 
 I have experience delivering projects within BI and PMO environments, managing end-to-end requirements, coordinating interdisciplinary teams, and acting as a liaison between clients, technical teams, and multiple workstreams. I have worked with complex datasets across healthcare, supply chain, logistics, sales and other sectors, ensuring data quality, traceability, and alignment with business goals.
 
-I am currently expanding my skill set in Power Apps and Power Automate for process automation and low-code solutions, and I also use Tableau for data visualization. I bring strong analytical skills that enable me to provide clarity to complex problems and generate actionable, data-driven insights.
+I am currently expanding my skill set in R, Python, and Machine Learning.
   
 ⚡ Seeking to attract the attention of the right people who understand my ideas about the power and potential of the data world, where it can be put to work for social evolution and a fairer, smarter world
   
-🔭 Was part of a national <a href="https://www.conicet.gov.ar/el-conicet-y-establecimientos-gascon-s-a-trabajan-en-el-desarrollo-de-una-tecnologia-clave-para-el-sector-de-hidrocarburos/" target="_blank">USM development project</a>
+🔭 Part of a national <a href="https://www.conicet.gov.ar/el-conicet-y-establecimientos-gascon-s-a-trabajan-en-el-desarrollo-de-una-tecnologia-clave-para-el-sector-de-hidrocarburos/" target="_blank">USM development project</a>
+
+👩🏻‍💻 Professional Simulation Project - Business Intelligence Project for Surgical Robotics: Adoption and Scalability Modeling
+February 2026
+End-to-end project execution, including data analysis and development of a Power BI report to present key findings and conclusions
+
   
 💬 LANGUAGES <b>Spanish (native), <b>English</b> (C1), Italian (B2)</b>
 
